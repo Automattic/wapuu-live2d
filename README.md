@@ -1,13 +1,12 @@
 # Live2D Wapuu
 
-**Contributors:** Tallulahhh, Nuttychooky
-**Requires at least:** A live2D viewer
-**Tested up to:**  ¯\\_(ツ)_/¯  
-**Requires PHP:** lol no
-**License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
-
 It's a virtual avatar Wapuu!
+
+- Contributors: Tallulahhh, Nuttychooky
+- Requires at least: A live2D viewer
+- Tested up to:  ¯\\_(ツ)_/¯  
+- Requires PHP: lol no
+- License: GPLv2 or later  
 
 ## Description
 
@@ -23,11 +22,9 @@ How to use it:
 
 *   Use a live2D app like kalidoface.com
 
-
 ## Frequently Asked Questions
 
 * ???
-
 
 ## Copyright
 
